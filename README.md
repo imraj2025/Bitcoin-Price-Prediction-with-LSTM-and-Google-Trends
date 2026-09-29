@@ -25,6 +25,14 @@ An experiment in forecasting the **hourly Bitcoin close price** with an **LSTM (
 10. [Background: What is an LSTM?](#background-what-is-an-lstm)
 
 ---
+## Output
+Prediction Plot<br/>
+<img src="/images/3D-PredictionPlot.png"  />
+Result of loss value after every epoch<br/>
+<img src="/images/3D-LossValuePlot.png" />
+Distribution of columns <br/>
+<img src="/images/3D-DistributionColumns.png" />
+
 
 ## Overview
 
